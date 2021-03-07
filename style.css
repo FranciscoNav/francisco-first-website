@@ -1,3 +1,6 @@
-body {
-    background: rgb(131, 144, 233);
-  }
+body {background: rgb(131, 144, 233);}
+
+h1 {margin: auto;
+  position:relative;
+  text-align: center;}
+
